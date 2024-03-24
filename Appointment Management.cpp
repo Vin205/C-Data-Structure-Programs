@@ -1,5 +1,5 @@
-/*Assignment-07.Sakshi Pramod Malpure,39A;
-Appointment Management: Write a menu driven C++ program for storing
+
+/*Appointment Management: Write a menu driven C++ program for storing
 appointment schedules for the day.
 Appointments are booked randomly using linked lists. Set start and end
 time for visit slots. Write functions for
