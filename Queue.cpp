@@ -1,5 +1,5 @@
 /*
-Assignment-10,Sakshi Pramod Malpure,39A
+
 Simulation of pizza parlor: Pizza parlor accepting maximum M orders.
 Orders are served on a first come first served basis. Order once placed
 cannot be canceled.
