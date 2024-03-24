@@ -1,3 +1,4 @@
+// Read, display and Add polynomial
 #include<iostream>
 using namespace std;
 struct poly
